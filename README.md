@@ -1,3 +1,18 @@
+This project is based on the API from https://api.le-systeme-solaire.net, which provides data on objects in the Solar System.
+
+The main page visualizes the sizes of the main planets of the Solar System.
+
+The planet page displays information on a contrasted celestial body. 
+If it is a planet, then its satellites are also shown (if any). If it is a satellite, then its mother planet is shown.
+
+You can also search by the name of a celestial body.
+
+The project was made as an introductory one on react hooks.
+
+The author does not bear any responsibility for inaccurate data.
+
+Link to the working project website https://solarsystem-info.web.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
